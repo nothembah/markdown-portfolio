@@ -1,0 +1,4 @@
+- __Kind__
+- *Trustworthy*
+- **Resilient**
+- _Hard working_

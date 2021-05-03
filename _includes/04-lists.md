@@ -1,0 +1,6 @@
+- Poetry
+- Fashion
+- Music
+- Art
+- Food
+- Coding
