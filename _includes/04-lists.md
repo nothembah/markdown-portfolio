@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Poetry
+- Fashion
+- Music
+- Art
+- Food
+- Coding
